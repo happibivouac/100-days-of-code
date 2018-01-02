@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-## Coming soon.
+## Day 1: January 1st, 2018
+
+*Progress*: Worked on the personal portfolio on FreeCodeCamp.
+
+*Thoughts*: I'm struggling with coming up with a design that doesn't completely copy the site that they give as an example. 
+
+**Link to work**: [Codepen here](https://codepen.io/benmoot/pen/MrjNPe)
 
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
