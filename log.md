@@ -8,6 +8,12 @@
 
 **Link to work**: [Codepen here](https://codepen.io/benmoot/pen/MrjNPe)
 
+## Day 2: January 2nd, 2018
+
+*Progress*: Continued work with the personal portfolio. Did further research into CSS and how to get the page looking how I really intended it, instead of an awful placeholder.
+
+*Thoughts*: I learned some cool CSS things that I hadn't been taught through traditional means, but by going through so many different designs, I've started back at square one. So far I'm not off to a great start.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
