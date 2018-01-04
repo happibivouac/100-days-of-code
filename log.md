@@ -14,6 +14,12 @@
 
 *Thoughts*: I learned some cool CSS things that I hadn't been taught through traditional means, but by going through so many different designs, I've started back at square one. So far I'm not off to a great start.
 
+## Day 3: January 3rd, 2018
+
+*Progress*: Struggled more. Will just make a basic site and retake the FreeCodeCamp challenges from the beginning.
+
+*Thoughts*: I am off to an awful start with this. I'm frustrated at myself and how I can't retain this information. I know this happened because I was doing it, stopped, started working on Python, then JavaScript, and now I've come back to this and am lost. I will try to do FreeCodeCamp, straight through, with no interruptions of other languages/projects. At least until I am comfortable.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
