@@ -20,6 +20,12 @@
 
 *Thoughts*: I am off to an awful start with this. I'm frustrated at myself and how I can't retain this information. I know this happened because I was doing it, stopped, started working on Python, then JavaScript, and now I've come back to this and am lost. I will try to do FreeCodeCamp, straight through, with no interruptions of other languages/projects. At least until I am comfortable.
 
+## Day 4: January 4th, 2018
+
+*Progress*: Started over outside of the very basics. Currently working on CSS to hammer down the differences between padding, margin and focusing very hard on the small focus on jQuery.
+
+*Thoughts*: Feeling more comfortable since I am going over the basics and able to see where I had made some mistakes. Looking forward to seeing what I'm able to come up with after continuing to go through with this restart.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
