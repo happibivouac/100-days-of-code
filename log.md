@@ -26,6 +26,13 @@
 
 *Thoughts*: Feeling more comfortable since I am going over the basics and able to see where I had made some mistakes. Looking forward to seeing what I'm able to come up with after continuing to go through with this restart.
 
+
+## Day 5: January 5th, 2018
+
+*Progress*: No progress. Missed the day.
+
+*Thoughts*: Plans came up, I missed out on doing it.
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
