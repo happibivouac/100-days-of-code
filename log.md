@@ -18,7 +18,7 @@
 
 **Thoughts**: I think I need to slow down for a bit and focus on getting these core concepts figured out before I progress any further. I'm not confident in my ability with them yet and moving forward from here feels like I'll be having too much new information coming in that will make it harder to retain and train my brain to be efficent at what I've already been over. So Day 4 will be a study day over what I've already learned.
 
-## Day 3: Feburary 21st, 2019
+## Day 4: Feburary 21st, 2019
 
 **Progress**: Study day on what I've learned so far: arrays, lists, functions, strings, ordering, methods and libraries.
 **Thoughts**: 
