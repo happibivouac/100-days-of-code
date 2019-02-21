@@ -26,7 +26,7 @@
 
 Edit: Crammed my head with three videos of the playlist and that was a lot more information than I thought it was. Overall I feel like I have a better understanding about some of the more basic subject matter, but it will definitely take some practice. I'll try to come up with some sort of problem set that will allow me to exercise using these.
 
-## Day 3: Feburary 22nd, 2019
+## Day 5: Feburary 22nd, 2019
 
 **Progress**: TBA
 
