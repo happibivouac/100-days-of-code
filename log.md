@@ -21,4 +21,4 @@
 ## Day 4: Feburary 21st, 2019
 
 **Progress**: Study day on what I've learned so far: arrays, lists, functions, strings, ordering, methods and libraries.
-**Thoughts**: I'm using this [https://www.youtube.com/watch?v=k9TUPpGqYTo&index=2&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7](playlist) for practice as I find the teacher is thorough, to the point and can cram a lot of information in 20 minutes. It also touches on things that were not either explained in the text book I'm using (*Head First Programming*) or teaches me useful things about strings I had forgotten since my last venture with Python.
+**Thoughts**: I'm using this [playlist](https://www.youtube.com/watch?v=k9TUPpGqYTo&index=2&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) for practice as I find the teacher is thorough, to the point and can cram a lot of information in 20 minutes. It also touches on things that were not either explained in the text book I'm using (*Head First Programming*) or teaches me useful things about strings I had forgotten since my last venture with Python.
