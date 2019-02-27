@@ -26,8 +26,8 @@
 
 Edit: Crammed my head with three videos of the playlist and that was a lot more information than I thought it was. Overall I feel like I have a better understanding about some of the more basic subject matter, but it will definitely take some practice. I'll try to come up with some sort of problem set that will allow me to exercise using these.
 
-## Day 5: Feburary 22nd, 2019
+## Day 5: Feburary 26th, 2019
 
-**Progress**: TBA
+**Progress**: Worked on lists, tuples and sets, which is kinda damn confusing.
 
-**Thoughts**: TBA
+**Thoughts**: Took the weekend off and Monday's wind was so bad I didn't know if the power was going to go out so I did some work the next day. Once I put these into practice I'm sure it'll all come together, but as of now, it's... hard to wrap my head around. Thinking after the next video (on dictionaries), I should take a break from specific Python learning and focus more on programming fundementals.
